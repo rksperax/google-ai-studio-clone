@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+**URL**: https://google-ai-studio-clone.vercel.app/
 
 ## How can I edit this code?
 
